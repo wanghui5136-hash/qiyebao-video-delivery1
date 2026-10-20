@@ -2,7 +2,14 @@
 
 本仓库用于发布本项目可公开的成品；制作资料及历史继续保存在原私有仓库。
 
-## 最新下载：2026-10-20 R2
+## 完整原稿续制包：V6.2.1 + V7视觉
+
+- **[下载完整文稿、101镜分镜与续制简报](https://github.com/wanghui5136-hash/qiyebao-video-delivery1/raw/refs/heads/main/delivery/Qiyebao_Full_V621_Resume_20261020.zip)**
+- 正文保留用户提供的完整V6.2.1原文，附录记录当前21页进度和下一批原18—20；不是全片已制作完成。
+- 当前原11-c替换已获用户反馈正常；原18—42尚未制作。原18—20先核对既有配音/实际时长，不自动付费生成。
+- 此包的完整文稿/101镜分镜优先于早期R2“原1—17当前稿”；R2视频仍按各自用途使用。
+
+## 已制作视频下载：2026-10-20 R2
 
 - **[下载完整交付包（ZIP）](https://github.com/wanghui5136-hash/qiyebao-video-delivery1/raw/refs/heads/main/delivery/Qiyebao_Latest_Delivery_20261020_R2.zip)**：含两个Word、三个MP4、分镜表、预览图与使用说明。
 - [Word文稿（原1—17及过渡）](https://github.com/wanghui5136-hash/qiyebao-video-delivery1/raw/refs/heads/main/delivery/20261020_R2/Qiyebao_Current_Script_R2.docx)
