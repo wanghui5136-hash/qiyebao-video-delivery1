@@ -2,6 +2,14 @@
 
 本仓库用于发布本项目可公开的成品；制作资料及历史继续保存在原私有仓库。
 
+## 最新批次：原18—20｜V7线条＋实景
+
+- **[下载整批视频、完整Word与插入指令](https://github.com/wanghui5136-hash/qiyebao-video-delivery1/raw/refs/heads/main/delivery/Qiyebao_Batch18-20_V7_Mixed_20261020.zip)**
+- 原18：19秒，顾客交流＋四工具关系动画；原19：12秒，新品实拍＋秒杀条件；原20：15秒，新包装实拍＋客户经营路径。
+- 已完成素材许可核验、高清下载、本地合成、完整解码及抽帧检查；旁白时长尚未实测，这些是蓝图预排时长，不宣称已同步。
+- 3个独立MP4接在当前第21页后，预计第22—24页。尚未执行HeyGen插入。使用包内HeyGen_Batch_Insert.txt一次完成操作。
+- Word保留原冻结全文及101镜原表格，更新制作附录。原21—42尚待后续制作。
+
 ## 完整原稿续制包：V6.2.1 + V7视觉
 
 - **[下载完整文稿、101镜分镜与续制简报](https://github.com/wanghui5136-hash/qiyebao-video-delivery1/raw/refs/heads/main/delivery/Qiyebao_Full_V621_Resume_20261020.zip)**

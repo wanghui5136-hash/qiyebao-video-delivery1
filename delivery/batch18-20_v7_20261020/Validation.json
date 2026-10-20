@@ -1,0 +1,47 @@
+{
+  "videos": [
+    {
+      "original_scene": 18,
+      "duration": 19,
+      "frames": 570,
+      "canvas": "1920x1080",
+      "fps": "30/1",
+      "codec": "h264",
+      "pix_fmt": "yuv420p",
+      "audio": false,
+      "full_decode": "pass",
+      "encoded_safe_area_samples": "pass",
+      "voiceover_sync": "未取得实际音频，时长依据42主场景蓝图预排，不宣称同步",
+      "sha256": "7a1361d4691f96a1be9b8bb5f4f61ab525c868214d3fb19a48a2c169123bfde5"
+    },
+    {
+      "original_scene": 19,
+      "duration": 12,
+      "frames": 360,
+      "canvas": "1920x1080",
+      "fps": "30/1",
+      "codec": "h264",
+      "pix_fmt": "yuv420p",
+      "audio": false,
+      "full_decode": "pass",
+      "encoded_safe_area_samples": "pass",
+      "voiceover_sync": "未取得实际音频，时长依据42主场景蓝图预排，不宣称同步",
+      "sha256": "656f5f10754bcdcd023037c61ba981ce6666c1a67650ca2c9bf94db2fbe1308e"
+    },
+    {
+      "original_scene": 20,
+      "duration": 15,
+      "frames": 450,
+      "canvas": "1920x1080",
+      "fps": "30/1",
+      "codec": "h264",
+      "pix_fmt": "yuv420p",
+      "audio": false,
+      "full_decode": "pass",
+      "encoded_safe_area_samples": "pass",
+      "voiceover_sync": "未取得实际音频，时长依据42主场景蓝图预排，不宣称同步",
+      "sha256": "fa5f9280ae3d364eb7390819c9c1056a5580471a04752da0d3568665fb31a431"
+    }
+  ],
+  "viewing": "完整解码及首中尾/场景18切换后抽帧检查，未实时完整观看全部片段"
+}
