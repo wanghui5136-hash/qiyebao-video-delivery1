@@ -1,0 +1,14 @@
+{
+  "seconds": 4,
+  "frames": 120,
+  "canvas": "1920x1080",
+  "fps": 30,
+  "codec": "h264",
+  "pix_fmt": "yuv420p",
+  "audio": false,
+  "full_decode": "pass",
+  "encoded_first_mid_last_safe_area": "pass",
+  "new_narration": "融入生态，共创共享，不再独行。",
+  "audio_sync": "未生成配音、未实测；4秒为新制片时长，不是音频实测",
+  "watching": "完整解码并检查首中尾帧，未实时完整观看"
+}

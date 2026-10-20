@@ -2,7 +2,14 @@
 
 本仓库用于发布本项目可公开的成品；制作资料及历史继续保存在原私有仓库。
 
-## 最新交付：四页V7修补＋盲盒/竞拍四个新场景
+## 最新修订：第21页承接句＋盲盒/竞拍音画核对
+
+- **[下载4秒动态过渡及一次性执行指令](https://github.com/wanghui5136-hash/qiyebao-video-delivery1/raw/refs/heads/main/delivery/Qiyebao_Transition21_4s_AndMappingFix_20261020.zip)**
+- 只上传新MP4替换当前第21页，页面总数仍30。动态沿用原V7过渡，4秒为新制片时长，不循环/冻结原片。
+- 用户新授权台词：“融入生态，共创共享，不再独行。”语音尚未生成；原A无旁白方案由本次修订替代。
+- 第27/28按原稿为盲盒，第29/30为竞拍；用户回报疑似错配，执行指令要求实际核对/修复绑定，不直接改标题造成漏章。平台尚未执行本次修订。
+
+## 上一批：四页V7修补＋盲盒/竞拍四个新场景
 
 - **[下载完整包：替换4页＋新增4页](https://github.com/wanghui5136-hash/qiyebao-video-delivery1/raw/refs/heads/main/delivery/Qiyebao_Repairs4_NewScenes23-26_20261020.zip)**
 - `01_REPLACE_Current10-13`：4个MP4只替换当前第10—13页画面，保留旁白和位置；原11-c（当前14页）不重做。
