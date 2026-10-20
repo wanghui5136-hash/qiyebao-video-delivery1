@@ -1,0 +1,24 @@
+[
+  {
+    "file": "REPLACE_Current28_Original24_V7_Title17s.mp4",
+    "seconds": 17.0,
+    "frames": 510,
+    "full_decode": "pass",
+    "codec": "h264",
+    "pix_fmt": "yuv420p",
+    "audio": false,
+    "safe_area_samples": "pass",
+    "sha256": "e6e57ea448712f2cc5203970698246c44da1c8a82ce13c266cc92d965718fd9a"
+  },
+  {
+    "file": "REPLACE_Current30_Original26_V7_Title15s.mp4",
+    "seconds": 15.0,
+    "frames": 450,
+    "full_decode": "pass",
+    "codec": "h264",
+    "pix_fmt": "yuv420p",
+    "audio": false,
+    "safe_area_samples": "pass",
+    "sha256": "88011ffb7b4662728868d8d07965f6441392088cf25723bd99514d6fbaba42bd"
+  }
+]

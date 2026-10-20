@@ -4,8 +4,8 @@
 
 ## 最新修订：第21页承接句＋盲盒/竞拍音画核对
 
-- **[下载4秒动态过渡及一次性执行指令](https://github.com/wanghui5136-hash/qiyebao-video-delivery1/raw/refs/heads/main/delivery/Qiyebao_Transition21_4s_AndMappingFix_20261020.zip)**
-- 只上传新MP4替换当前第21页，页面总数仍30。动态沿用原V7过渡，4秒为新制片时长，不循环/冻结原片。
+- **[下载第21/28/30页三个修订片及一次性执行指令](https://github.com/wanghui5136-hash/qiyebao-video-delivery1/raw/refs/heads/main/delivery/Qiyebao_Transition21_AndTopicTitles_20261020.zip)**
+- 本包3个MP4，分别替换当前第21、28、30页画面，页面总数仍30。第28/30明确增加盲盒/竞拍主题名，原时长和画面不变。动态沿用原V7过渡，4秒为新制片时长，不循环/冻结原片。
 - 用户新授权台词：“融入生态，共创共享，不再独行。”语音尚未生成；原A无旁白方案由本次修订替代。
 - 第27/28按原稿为盲盒，第29/30为竞拍；用户回报疑似错配，执行指令要求实际核对/修复绑定，不直接改标题造成漏章。平台尚未执行本次修订。
 
