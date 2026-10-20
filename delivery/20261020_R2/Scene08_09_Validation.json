@@ -1,0 +1,36 @@
+{
+  "rules": "V7",
+  "source": "用户上传ZIP内真实商品后台与商城首页截图",
+  "voiceover_sync": "未实测；14.4与7.1秒为用户指定暂定时长",
+  "checks": [
+    {
+      "scene_original": 8,
+      "duration": 14.4,
+      "frames": 432,
+      "width": 1920,
+      "height": 1080,
+      "fps": "30/1",
+      "codec": "h264",
+      "pixel_format": "yuv420p",
+      "audio_tracks": 0,
+      "full_decode": "pass",
+      "subtitle_safe_region_y940_1080": "pass all source frames / encoded first middle last",
+      "sha256": "28e2e5f0825137ff54a42c32c7f11b20ae5b892833ee109317b32e580b5484a6"
+    },
+    {
+      "scene_original": 9,
+      "duration": 7.1,
+      "frames": 213,
+      "width": 1920,
+      "height": 1080,
+      "fps": "30/1",
+      "codec": "h264",
+      "pixel_format": "yuv420p",
+      "audio_tracks": 0,
+      "full_decode": "pass",
+      "subtitle_safe_region_y940_1080": "pass all source frames / encoded first middle last",
+      "sha256": "a648a8fc74b2121c4368a49579c72ba5af29aacdd279dd42dbfce947590debec"
+    }
+  ],
+  "viewing": "已检查编码后首、中、尾帧；完整解码通过，未实时完整观看全部片段。"
+}
