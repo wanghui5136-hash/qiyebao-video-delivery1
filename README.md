@@ -2,7 +2,14 @@
 
 本仓库用于发布本项目可公开的成品；制作资料及历史继续保存在原私有仓库。
 
-## 最新批次：原18—20｜V7线条＋实景
+## 最新批次：原21—22｜拼团
+
+- **[下载拼团整批：两个MP4、最新完整Word与插入指令](https://github.com/wanghui5136-hash/qiyebao-video-delivery1/raw/refs/heads/main/delivery/Qiyebao_Batch21-22_V7_Mixed_20261020.zip)**
+- Original_Scene21_V7_Mixed_14s.mp4（14秒）与Original_Scene22_V7_Mixed_16s.mp4（16秒），时长均为蓝图暂估，配音未实测同步。
+- 以用户确认的24页草稿为基础，预计接在第24页后为25—26页；现有第21页2秒过渡按选择A保留。新片尚未导入HeyGen。
+- 已完成新实拍许可核验、V7混合合成和编码验证；未购买素材或调用付费生成。Word正文保留原冻结全文/101镜，仅更新附录。
+
+## 上一批：原18—20｜V7线条＋实景
 
 - **[下载整批视频、完整Word与插入指令](https://github.com/wanghui5136-hash/qiyebao-video-delivery1/raw/refs/heads/main/delivery/Qiyebao_Batch18-20_V7_Mixed_20261020.zip)**
 - 原18：19秒，顾客交流＋四工具关系动画；原19：12秒，新品实拍＋秒杀条件；原20：15秒，新包装实拍＋客户经营路径。

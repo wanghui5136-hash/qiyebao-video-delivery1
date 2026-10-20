@@ -1,0 +1,33 @@
+{
+  "videos": [
+    {
+      "original_scene": 21,
+      "duration": 14,
+      "frames": 420,
+      "canvas": "1920x1080",
+      "fps": 30,
+      "codec": "h264",
+      "pix_fmt": "yuv420p",
+      "audio_tracks": 0,
+      "full_decode": "pass",
+      "safe_area_sampled": "pass",
+      "sha256": "e2faf366fc3e5fba0865db2a6896ae89d9e5c68252bfb9e67431f40082a70728",
+      "voiceover_sync": "未取得实际音频；依据旧42主场景蓝图暂估，未实测同步"
+    },
+    {
+      "original_scene": 22,
+      "duration": 16,
+      "frames": 480,
+      "canvas": "1920x1080",
+      "fps": 30,
+      "codec": "h264",
+      "pix_fmt": "yuv420p",
+      "audio_tracks": 0,
+      "full_decode": "pass",
+      "safe_area_sampled": "pass",
+      "sha256": "b9c3fd878ddad6b0cc4ca52a3ffa3e4aab89ffe9adbab8e4f6e83e265914b7c0",
+      "voiceover_sync": "未取得实际音频；依据旧42主场景蓝图暂估，未实测同步"
+    }
+  ],
+  "viewing": "完整解码及首中尾抽帧检查；未实时完整观看全部片段"
+}
