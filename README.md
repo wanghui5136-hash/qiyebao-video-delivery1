@@ -2,7 +2,16 @@
 
 本仓库用于发布本项目可公开的成品；制作资料及历史继续保存在原私有仓库。
 
-## 最新批次：原21—22｜拼团
+## 最新交付：四页V7修补＋盲盒/竞拍四个新场景
+
+- **[下载完整包：替换4页＋新增4页](https://github.com/wanghui5136-hash/qiyebao-video-delivery1/raw/refs/heads/main/delivery/Qiyebao_Repairs4_NewScenes23-26_20261020.zip)**
+- `01_REPLACE_Current10-13`：4个MP4只替换当前第10—13页画面，保留旁白和位置；原11-c（当前14页）不重做。
+- `02_APPEND_Original23-26`：4个MP4追加在当前26页之后，预计成为27—30页。不是新增8页，也不覆盖当前23—26页。
+- 包含两份完整Word、30页计划对照表、8片预览图、授权/验证记录及`HeyGen_一次提交_替换4页_新增4页.txt`。平台尚未执行本批，预计执行后30页，不声称已经30页。
+- 用户酒庄素材已取10—12秒干净产地画面，移除原音，不携带烧录字幕；新品介绍/品鉴、培训和酒店已在文件层统一V7。真实直播录屏仍未提供，不将食品讲解库存片冒充直播实录。
+- 新原23—26文件时长18/17/15/15秒均为蓝图预排，未与实际配音实测同步。均不调用付费生成或购买素材。
+
+## 上一批：原21—22｜拼团
 
 - **[下载拼团整批：两个MP4、最新完整Word与插入指令](https://github.com/wanghui5136-hash/qiyebao-video-delivery1/raw/refs/heads/main/delivery/Qiyebao_Batch21-22_V7_Mixed_20261020.zip)**
 - Original_Scene21_V7_Mixed_14s.mp4（14秒）与Original_Scene22_V7_Mixed_16s.mp4（16秒），时长均为蓝图暂估，配音未实测同步。
